@@ -1,0 +1,8 @@
+{
+  "name": "Remix Himnario K\u0027eoj",
+  "description": "Himnario cristiano en idioma Tsotsil de Chenalhó con acordes, transposición en tiempo real, búsqueda y modo libro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
